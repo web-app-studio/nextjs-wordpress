@@ -1,1 +1,1 @@
-# nextjs-wordpress
+# Next.js Headless WordPress Starter
